@@ -1,0 +1,7 @@
+{
+  "name": "EduScan AI",
+  "description": "Next-Gen AI Attendance System using Face Recognition and Liveness Detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
